@@ -17,7 +17,7 @@ Version 2b (DH Parameters)
 
 ![v2b-1](https://github.com/user-attachments/assets/eba2a690-3d91-46ac-8b96-e63e5852068d)
 
-Version 2b (Mass % CoM Parameters)
+Version 2b (Mass & CoM Parameters)
 
 ![v2b-2](https://github.com/user-attachments/assets/e3abb273-af2f-4990-ab03-cc35a1260807)
 
